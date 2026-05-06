@@ -31,7 +31,7 @@ def get_waka_df(describe=False, add_cid=True) -> pd.DataFrame:
         print(f"The number of unique CASes are {len(df['CAS'].unique())}")
 
     if add_cid:
-        print("Fetching Pubchem CIDs (this may take time")
+        print("Fetching Pubchem CIDs (this may take time)")
         df['CID'] = df['CAS'].apply(lambda x: cas_to_cid(str(x)))
         df['CID'] = df['CID'].astype('Int64')
         columns = ['CID'] + [c for c in df.columns if c != 'CID']
