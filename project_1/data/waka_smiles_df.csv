@@ -1,0 +1,313 @@
+CID,CAS,Name,SMILES
+179,513-86-0 ,acetoin ,CC(C(=O)C)O
+240,100-52-7 ,benzaldehyde ,C1=CC=C(C=C1)C=O
+244,100-51-6 ,benzyl alcohol ,C1=CC=C(C=C1)CO
+323,91-64-5 ,coumarin ,C1=CC=C2C(=C1)C=CC(=O)O2
+326,122-03-2 ,cumin aldehyde ,CC(C)C1=CC=C(C=C1)C=O
+454,124-13-0 ,octanal ,CCCCCCCC=O
+798,120-72-9 ,indole ,C1=CC=C2C(=C1)C=CN2
+957,111-87-5 ,octanol ,CCCCCCCCO
+1183,121-33-5 ,vanillin ,COC1=C(C=CC(=C1)C=O)O
+2345,120-51-4 ,benzyl benzoate ,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2
+2758,470-82-6 ,"1,8-cineol ",CC1(C2CCC(O1)(CC2)C)C
+2879,106-44-5 ,p-cresol ,CC1=CC=C(C=C1)O
+3314,97-53-0 ,eugenol ,COC1=C(C=CC(=C1)CC=C)O
+4133,119-36-8 ,methyl salicylate ,COC(=O)C1=CC=CC=C1O
+6054,60-12-8 ,phenylethyl alcohol ,C1=CC=C(C=C1)CCO
+6184,66-25-1 ,hexanal ,CCCCCC=O
+6501,77-83-8 ,aldehyde c-16 strawberry ,CCOC(=O)C1C(O1)(C)C2=CC=CC=C2
+6532,78-35-3 ,linalyl isobutyrate ,CC(C)C(=O)OC(C)(CCC=C(C)C)C=C
+6548,78-69-3 ,tetrahydrolinalool ,CCC(C)(CCCC(C)C)O
+6549,78-70-6 ,linalool ,CC(=CCCC(C)(C=C)O)C
+6616,79-92-5,camphene,CC1(C2CCC(C2)C1=C)C
+6631,58985-18-5 ,menthanyl acetate ,CC1CCC(CC1)C(C)(C)OC(=O)C
+6660,80-71-7 ,cyclotene ,CC1=C(C(=O)CC1)O
+6736,83-34-1 ,skatole ,CC1=CNC2=CC=CC=C12
+6874,87-20-7 ,isoamyl salicylate ,CC(C)CCOC(=O)C1=CC=CC=C1O
+6986,491-07-6 ,isomenthone ,CC1CCC(C(=O)C1)C(C)C
+7007,90-17-5,rosephenone,CC(=O)OC(C1=CC=CC=C1)C(Cl)(Cl)Cl
+7119,93-04-9 ,nerolin yara yara ,COC1=CC2=CC=CC=C2C=C1
+7122,93-08-3 ,methyl beta-naphthyl ketone ,CC(=O)C1=CC2=CC=CC=C2C=C1
+7129,93-18-5 ,nerolin bromelia ,CCOC1=CC2=CC=CC=C2C=C1
+7136,93-28-7 ,acetyl eugenol ,CC(=O)OC1=C(C=C(C=C1)CC=C)OC
+7137,93-29-8 ,acetyl isoeugenol ,CC=CC1=CC(=C(C=C1)OC(=O)C)OC
+7150,93-58-3 ,methyl benzoate ,COC(=O)C1=CC=CC=C1
+7165,93-89-0 ,ethyl benzoate ,CCOC(=O)C1=CC=CC=C1
+7342,97-62-1 ,ethyl isobutyrate ,CCOC(=O)C(C)C
+7391,98-52-2 ,p-tert-butylcyclohexanol ,CC(C)(C)C1CCC(CC1)O
+7410,98-86-2 ,acetophenone ,CC(=O)C1=CC=CC=C1
+7459,99-82-1 ,p-menthane ,CC1CCC(CC1)C(C)C
+7461,99-85-4 ,gamma-terpinene ,CC1=CCC(=CC1)C(C)C
+7462,99-86-5 ,alpha-terpinene ,CC1=CC=C(CC1)C(C)C
+7463,99-87-6 ,p-cymene ,CC1=CC=C(C=C1)C(C)C
+7531,100-86-7 ,dimethyl benzyl carbinol ,CC(C)(CC1=CC=CC=C1)O
+7583,101-84-8,diphenyl oxide ,C1=CC=C(C=C1)OC2=CC=CC=C2
+7632,103-05-9 ,dimethyl phenyl ethyl carbinol ,CC(C)(CCC1=CC=CC=C1)O
+7646,103-28-6 ,benzyl isobutyrate ,CC(C)C(=O)OCC1=CC=CC=C1
+7650,103-37-7,benzyl n-butyrate,CCCC(=O)OCC1=CC=CC=C1
+7654,103-45-7 ,phenylethyl acetate ,CC(=O)OCCC1=CC=CC=C1
+7655,103-48-0 ,phenylethyl isobutyrate ,CC(C)C(=O)OCCC1=CC=CC=C1
+7695,104-21-2 ,anisyl acetate ,CC(=O)OCC1=CC=C(C=C1)OC
+7704,104-50-7 ,gamma-octanoic lactone ,CCCCC1CCC(=O)O1
+7708,104-57-4 ,benzyl formate ,C1=CC=C(C=C1)COC=O
+7710,104-61-0 ,gamma-nonalactone ,CCCCCC1CCC(=O)O1
+7714,104-67-6 ,gamma-undecalactone ,CCCCCCCC1CCC(=O)O1
+7725,104-87-0 ,p-tolyl aldehyde ,CC1=CC=C(C=C1)C=O
+7731,104-93-8 ,p-cresyl methyl ether ,CC1=CC=C(C=C1)OC
+7738,105-13-5,anis alcohol,COC1=CC=C(C=C1)CO
+7749,105-37-3 ,ethyl propionate ,CCC(=O)OCC
+7762,105-54-4 ,ethyl butyrate ,CCCC(=O)OCC
+7770,105-66-8 ,propyl butyrate ,CCCC(=O)OCCC
+7778,105-85-1 ,citronellyl formate ,CC(CCC=C(C)C)CCOC=O
+7792,1333-49-9 ,tetrahydrogeraniol ,CC(C)CCCC(C)CCO
+7794,106-23-0 ,citronellal ,CC(CCC=C(C)C)CC=O
+7797,106-30-9 ,ethyl heptanoate ,CCCCCCC(=O)OCC
+7799,106-32-1,ethyl octanoate,CCCCCCCC(=O)OCC
+7803,106-36-5,propyl propionate ,CCCOC(=O)CC
+7888,107-75-5,hydroxy citronellal ,CC(CCCC(C)(C)O)CC=O
+7921,108-29-2 ,gamma-valerolactone ,CC1CCC(=O)O1
+7943,108-59-8 ,diethyl malonate ,COC(=O)CC(=O)OC
+7945,108-64-5 ,ethyl isovalerate ,CCOC(=O)CC(C)C
+7983,109-21-7 ,butyl butyrate ,CCCCOC(=O)CCC
+8038,110-19-0 ,isobutyl acetate ,CC(C)COC(=O)C
+8048,110-38-3 ,ethyl decanoate ,CCCCCCCCCC(=O)OCC
+8103,111-27-3 ,hexanol ,CCCCCCO
+8129,111-70-6 ,heptanol ,CCCCCCCO
+8130,111-71-7 ,heptanal ,CCCCCCC=O
+8137,111-80-8 ,methyl octine carbonate ,CCCCCCC#CC(=O)OC
+8163,112-12-9 ,methyl nonyl ketone ,CCCCCCCCCC(=O)C
+8164,112-14-1 ,octyl acetate ,CCCCCCCCOC(=O)C
+8174,112-30-1 ,decanol ,CCCCCCCCCCO
+8175,112-31-2 ,decanal ,CCCCCCCCCC=O
+8186,112-44-7 ,undecanal ,CCCCCCCCCCC=O
+8187,112-45-8 ,10-undecenal ,C=CCCCCCCCCC=O
+8193,112-53-8 ,lauryl alcohol ,CCCCCCCCCCCCO
+8194,112-54-9 ,dodecanal ,CCCCCCCCCCCC=O
+8294,115-95-7 ,linalyl acetate ,CC(=CCCC(C)(C=C)OC(=O)C)C
+8363,118-58-1,benzyl salicylate,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2O
+8365,118-61-6,ethyl salicylate,CCOC(=O)C1=CC=CC=C1O
+8369,118-71-8,maltol,CC1=C(C(=O)C=CO1)O
+8432,120-45-6 ,styrallyl propionate ,CCC(=O)OC(C)C1=CC=CC=C1
+8438,120-57-0 ,heliotropine ,C1OC2=C(O1)C=C(C=C2)C=O
+8467,121-32-4 ,ethyl vanillin ,CCOC1=C(C=CC(=C1)C=O)O
+8469,121-39-1 ,ethyl phenyl glycidate ,CCOC(=O)C1C(O1)C2=CC=CC=C2
+8499,121-98-2 ,methyl anisate ,COC1=CC=C(C=C1)C(=O)OC
+8635,134-20-3 ,methyl anthranilate ,COC(=O)C1=CC=CC=C1N
+8785,140-11-4 ,benzyl acetate ,CC(=O)OCC1=CC=CC=C1
+8797,140-39-6 ,p-cresyl acetate ,CC1=CC=C(C=C1)OC(=O)C
+8821,140-88-5 ,"2,6-nonadienal ",CCC=CCCC=CC=O
+8842,26489-01-0,citronellol ,CC(CCC=C(C)C)CCO
+8857,141-78-6 ,ethyl acetate ,CCOC(=O)C
+8868,141-97-9 ,ethyl acetoacetate ,CCOC(=O)CC(=O)C
+8878,142-19-8 ,allyl heptanoate ,CCCCCCC(=O)OCC=C
+8908,142-92-7 ,hexyl acetate ,CCCCCCOC(=O)C
+8914,143-08-8 ,nonanol ,CCCCCCCCCO
+9017,150-84-5 ,citronellyl acetate ,CC(CCC=C(C)C)CCOC(=O)C
+9024,151-05-3 ,dimethy benzyl carbinyl acetate ,CC(=O)OC(C)(C)CC1=CC=CC=C1
+10353,58985-02-7 ,dihydro terpineol ,CC1CCC(CC1)C(C)(C)O
+10795,534-15-6 ,acetaldehyde dimethyl acetal ,CC(OC)OC
+10947,541-91-3 ,muscone ,CC1CCCCCCCCCCCCC(=O)C1
+11463,586-62-9 ,terpinolene ,CC1=CCC(=C(C)C)CC1
+12180,623-42-7 ,methyl butyrate ,CCCC(=O)OC
+12756,695-06-7 ,gamma-hexalactone ,CCC1CCC(=O)O1
+12810,705-86-2 ,delta-decalactone ,CCCCCC1CCCC(=O)O1
+12813,706-14-9 ,gamma-decalactone ,CCCCCCC1CCC(=O)O1
+12844,713-95-1 ,delta-dodecalactone ,CCCCCCCC1CCCC(=O)O1
+14235,1118-39-4 ,myrcenyl acetate ,CC(=O)OC(C)(C)CCCC(=C)C=C
+14489,1191-16-8 ,prenyl acetate ,CC(=CCOC(=O)C)C
+14896,127-91-3 ,beta-pinene ,CC1(C2CCC(=C)C1C2)C
+15406,1632-73-1 ,fenchyl alcohol ,CC1(C2CCC(C2)(C1O)C)C
+16299,2050-08-0 ,amyl salicylate ,CCCCCOC(=O)C1=CC=CC=C1O
+16441,2111-75-3 ,perillaldehyde ,CC(=C)C1CCC(=CC1)C=O
+16666,2216-51-5 ,l-menthol ,C[C@@H]1CC[C@H]([C@@H](C1)O)C(C)C
+16821,5/7/2305,gamma-dodecalactone ,CCCCCCCCC1CCC(=O)O1
+17100,98-55-5 ,alpha-terpineol ,CC1=CCC(CC1)C(C)(C)O
+17121,10/6/2442,1-octen-3-yl acetate ,CCCCCC(C=C)OC(=O)C
+17525,2639-63-6 ,hexyl butyrate ,CCCCCCOC(=O)CCC
+17617,2705-87-5 ,allyl cyclohexane propionate ,C=CCOC(=O)CCC1CCCCC1
+17739,2785-87-7 ,dihydro eugenol ,CCCC1=CC(=C(C=C1)O)OC
+18698,3301-94-8 ,delta-nonalactone ,CCCCC1CCCC(=O)O1
+18756,13877-91-3 ,ocimene ,CC(=CCC=C(C)C=C)C
+18827,3391-86-4 ,1-octen-3-ol ,CCCCCC(C=C)O
+18938,3452-97-9 ,"3,5,5-trimethyl-1-hexanol ",CC(CCO)CC(C)(C)C
+19089,3558-60-9,phenyl ethyl methyl ether,COCCC1=CC=CC=C1
+20487,4430-31-3 ,octahydrocoumarin ,C1CCC2C(C1)CCC(=O)O2
+20739,4/9/4621,folrosia,CC(C)C1CCC(CC1)O
+21059,11/8/4940,ethyl maltol,CCC1=C(C(=O)C=CO1)O
+21648,5471-51-2 ,raspberry ketone ,CC(=O)CCC1=CC=C(C=C1)O
+21895,29895-73-6 ,"2-(phenylmethyl)-1,3-dioxan-5-ol ",C1C(OC(O1)CC2=CC=CC=C2)CO
+22310,60047-17-8 ,linalool oxide ,CC1(CCC(O1)C(C)(C)O)C=C
+22311,138-86-3,limonene,CC1=CCC(CC1)C(=C)C
+22629,6259-76-3 ,hexyl salicylate ,CCCCCCOC(=O)C1=CC=CC=C1O
+24020,7452-79-1 ,ethyl 2-methyl butyrate ,CCC(C)C(=O)OCC
+24117,7493-74-5 ,allyl phenoxyacetate ,C=CCOC(=O)COC1=CC=CC=C1
+24915,10094-34-5 ,dimethyl benzyl carbinyl butyrate ,CCCC(=O)OC(C)(C)CC1=CC=CC=C1
+25612,13019-22-2 ,decenol ,C=CCCCCCCCCO
+26447,14073-97-3 ,l-menthone ,C[C@@H]1CC[C@H](C(=O)C1)C(C)C
+26955,14901-07-6 ,beta-ionone ,CC1=C(C(CCC1)(C)C)C=CC(=O)C
+27866,16409-43-1 ,rose oxide ,CC1CCOC(C1)C=C(C)C
+29096,18479-58-8 ,dihydro myrcenol ,CC(CCCC(C)(C)O)C=C
+31209,122-40-7 ,amyl cinnamaldehyde ,CCCCCC(=CC1=CC=CC=C1)C=O
+31219,122-63-4,benzyl propionate ,CCC(=O)OCC1=CC=CC=C1
+31225,122-70-3 ,phenylethyl propionate ,CCC(=O)OCCC1=CC=CC=C1
+31234,122-97-4 ,3-phenylpropyl alcohol ,C1=CC=C(C=C1)CCCO
+31244,123-11-5,anis aldehyde,COC1=CC=C(C=C1)C=O
+31251,123-29-5,ethyl nonanoate,CCCCCCCCC(=O)OCC
+31253,123-35-3 ,myrcene ,CC(=CCCC(=C)C=C)C
+31260,123-51-3 ,isoamyl alcohol ,CC(C)CCO
+31265,123-66-0 ,ethyl hexanoate ,CCCCCC(=O)OCC
+31266,123-68-2 ,allyl hexanoate ,CCCCCC(=O)OCC=C
+31272,123-86-4 ,butyl acetate ,CCCCOC(=O)C
+31276,123-92-2 ,isoamyl acetate ,CC(C)CCOC(=O)C
+31289,124-19-6,nonanal ,CCCCCCCCC=O
+32052,35044-68-9, beta-damascone,CC=CC(=O)C1=C(CCCC1(C)C)C
+36081,32210-23-4 ,p-tert-butylcyclohexyl acetate ,CC(=O)OC1CCC(CC1)C(C)(C)C
+42745,40379-24-6 ,isononyl acetate ,CC(CCOC(=O)C)CC(C)(C)C
+60985,97-89-2 ,citronellyl isobutyrate ,CC(C)C(=O)OCCC(C)CCC=C(C)C
+60995,101-48-4 ,phenylacetaldehyde dimethyl acetal ,COC(CC1=CC=CC=C1)OC
+61005,103-60-6,phenoxy ethyl isobutyrate,CC(C)C(=O)OCCOC1=CC=CC=C1
+61007,104-20-1 ,anisyl acetone ,CC(=O)CCC1=CC=C(C=C1)OC
+61016,106-72-9 ,melonal ,CC(CCC=C(C)C)C=O
+61031,110-41-8 ,2-methyl undecanal ,CCCCCCCCCC(C)C=O
+61040,115-99-1,linalyl formate ,CC(=CCCC(C)(C=C)OC=O)C
+61041,116-26-7 ,safranal ,CC1=C(C(CC=C1)(C)C)C=O
+61204,710-04-3 ,delta-undecalactone ,CCCCCCC1CCCC(=O)O1
+61334,4166-20-5 ,furaneol ,CC1C(=O)C(=C(O1)C)OC(=O)C
+61585,13171-00-1 ,celestolide ,CC(=O)C1=C2CCC(C2=CC(=C1)C(C)(C)C)(C)C
+62098,55418-52-5 ,heliotropyl acetone ,CC(=O)CCC1=CC2=C(C=C1)OCO2
+62334,88-41-5 ,o-tert-butylcyclohexyl acetate ,CC(=O)OC1CCCCC1C(C)(C)C
+62341,93-92-5 ,styrallyl acetate ,CC(C1=CC=CC=C1)OC(=O)C
+62378,1128-08-1 ,dihydro jasmone ,CCCCCC1=C(CCC1=O)C
+62902,39255-32-8 ,manzanate ,CCCC(C)C(=O)OCC
+64685,507-70-0 ,borneol ,CC1(C2CCC1(C(C2)O)C)C
+64805,1205-17-0 ,helional ,CC(CC1=CC2=C(C=C1)OCO2)C=O
+64813,6/6/5462,canthoxal ,CC(CC1=CC=C(C=C1)OC)C=O
+65575,77-53-2 ,cedrol ,C[C@@H]1CC[C@@H]2[C@]13CC[C@@]([C@H](C3)C2(C)C)(C)O
+80865,10/1/6413,fructone,CCOC(=O)CC1(OCCO1)C
+83268,13254-34-7 ,dimetol ,CC(C)CCCC(C)(C)O
+86579,17511-60-3 ,tricyclodecenyl propionate ,CCC(=O)OC1CC2CC1C3C2C=CC3
+87453,18096-62-3 ,indoflor ,C1C2COCOC2C3=CC=CC=C31
+89440,21145-77-7 ,tonalide ,CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C
+90978,23787-90-8 ,isolongifolanone ,CC1(CCC(=O)C2C13CCC(C3)C2(C)C)C
+91497,1222-05-5 ,galaxolide ,CC1COCC2=CC3=C(C=C12)C(C(C3(C)C)C)(C)C
+91604,31906-04-4,lyral,CC(C)(CCCC1=CCC(CC1)C=O)O
+92292,33704-61-9 ,cashmerane ,CC1C(C2=C(C1(C)C)C(=O)CCC2)(C)C
+92606,56973-85-4 ,dynascone ,CC1(CCC=C(C1)C(=O)CCC=C)C
+93199,37677-14-8 ,myrac aldehyde ,CC(=CCCC1=CCC(CC1)C=O)C
+93375,68039-49-6  ,triplal ,CC1C=C(CCC1C=O)C
+94111,58567-11-6 ,boisambrene forte ,CCOCOC1CCCCCCCCCCC1
+95560,2109-22-0 ,pollenal ?,CC(C=O)C1CCCCC1
+101330,25485-88-5 ,cyclohexyl salicylate ,C1CCC(CC1)OC(=O)C2=CC=CC=C2O
+102844,2550-11-0 ,dimethyl octenone ,CCC(=O)C(C)CC=C(C)C
+102861,24851-98-7 ,methyl dihydrojasmonate ,CCCCCC1C(CCC1=O)CC(=O)OC
+102916,2983-37-1 ,irotyl ,CCCCC(CC)C(=O)OCC
+105512,67634-14-4 ,floralozone ,CCC1=CC=CC=C1CC(C)(C)C=O
+105664,67801-64-3 ,floramat ,CCOC(=O)OC1CCCCC1C(C)(C)C
+106714,67583-77-1 ,herbavert ,CCOC1CC(CC(C1)(C)C)C
+106745,67634-20-2 ,tricyclodecenyl isobutyrate ,CC(C)C(=O)OC1CC2CC1C3C2CC=C3
+106748,67634-25-7 ,floralate ,CC1CC(CC(=C1)C)COC(=O)C
+106866,67845-30-1 ,bark carbaldehyde ,CC1=CC2CC(C1CC2C(C)C)C=O
+107166,3738-00-9 ,ambrotech ,CC1(CCCC2(C1CCC3(C2CCO3)C)C)C
+107381,5182-36-5,floropal,CC1CC(OC(O1)C)(C)C2=CC=CC=C2
+108242,54464-57-2 ,ISO E super ,CC1CC2=C(CC1(C)C(=O)C)C(CCC2)(C)C
+108312,55066-48-3 ,phenyl hexanol ,CC(CCC1=CC=CC=C1)CCO
+108443,60335-71-9,rosyrane,CC1=CCOC(C1)C2=CC=CC=C2
+109116,61699-38-5 ,jasmacyclat ,COC(=O)OC1CCCCCCC1
+109418,68480-15-9 ,floralol ,CC1CCC(C(C1)C)CO
+110655,5413-60-5 ,tricyclodecenyl acetate ,CC(=O)OC1CC2CC1C3C2C=CC3
+110914,6658-48-6 ,suzaral ,CC(C)CC1=CC=C(C=C1)CC(C)C=O
+111037,80-26-2 ,terpinyl acetate ,CC1=CCC(CC1)C(C)(C)OC(=O)C
+111418,68901-32-6 ,glycolierral ,CC1=CC2CC(C1CC2C(C)C)C3OCCO3
+111727,68901-15-5,allyl cyclohexyl glycolate ,C=CCOC(=O)COC1CCCCC1
+113514,82461-14-1 ,rhubafuran ,CC1CC(CO1)(C)C2=CC=CC=C2
+116699,70788-30-6 ,norlimbanol ,CCCC(CCC1C(CCCC1(C)C)C)O
+118134,34131-98-1 ,decatone ,CC(C)C1CCC2CC(=O)CCC2C1
+118201,35044-59-8,ethyl safranate,CCOC(=O)C1=C(C=CCC1(C)C)C
+118292,36306-87-3,kephalis,CCOC(=C)C1C(CC(=O)CC1(C)C)(C)C
+119897,28219-60-5 ,sandalmysore core ,CC1=CCC(C1(C)C)C/C=C(\C)/CO
+120101,28940-11-6 ,calone ,CC1=CC2=C(C=C1)OCC(=O)CO2
+157342,80623-07-0,fruitate ,CCOC(=O)[C@@]12CCC[C@@H]1[C@H]3CC[C@@H]2C3
+159055,464-49-3,camphor,C[C@@]12CC[C@@H](C1(C)C)CC2=O
+160641,2511-00-4 ,poirenate ,CCOC(=O)C(C)C1CCCCC1
+162268,37609-25-9 ,(5Z)-cyclohexadec-5-en-1-one ,C1CCCCCC(=O)CCCC=CCCCC1
+163336,81782-77-6 ,undecavertol ,CCCCCC(C(=CCC)C)O
+163588,90397-38-9,peranat,CCCC(C)COC(=O)C(C)CCC
+164422,139504-68-0 ,amber core ,CCC(COC1CCCCC1C(C)(C)C)O
+166523,80480-24-6 ,troenan ,CCCC(C)C1OCC(CO1)(C)CCC
+228987,80-54-6 ,lilial ,CC(CC1=CC=C(C=C1)C(C)(C)C)C=O
+234237,1322-17-4 ,Jasmonyl ,CCCCCCC(CCOC(=O)C)O
+235414,106-02-5,pentalide,C1CCCCCCCOC(=O)CCCCCC1
+240122,134-28-1 ,guaiyl acetate ,C[C@H]1CC[C@H](CC2=C1CC[C@@H]2C)C(C)(C)OC(=O)C
+249494,107-74-4,hydroxy citronellol ,CC(CCCC(C)(C)O)CCO
+439570,6485-40-1 ,l-carvone ,CC1=CC[C@H](CC1=O)C(=C)C
+440968,7785-26-4 ,alpha-pinene ,CC1=CC[C@H]2C[C@@H]1C2(C)C
+517827,103-95-7 ,cyclamen aldehyde ,CC(C)C1=CC=C(C=C1)CC(C)C=O
+519382,17283-81-7 ,dihydro beta-ionone ,CC1=C(C(CCC1)(C)C)CCC(=O)C
+520506,43052-87-5 ,alpha-damascone ,CC=CC(=O)C1C(=CCCC1(C)C)C
+522514,7392-19-0,limetol,CC1(CCCC(O1)(C)C=C)C
+526760,124899-75-8 ,allyl amyl glycolate ,CCCCCOCC(=O)OCC=C
+637511,104-55-2,cinnamic aldehyde,C1=CC=C(C=C1)/C=C/C=O
+637520,103-26-4 ,methyl cinnamate ,COC(=O)/C=C/C1=CC=CC=C1
+637531,125-12-2 ,isobornyl acetate ,CC(=O)O[C@@H]1C[C@H]2CC[C@@]1(C2(C)C)C
+637566,106-24-1 ,geraniol ,CC(=CCC/C(=C/CO)/C)C
+637758,4192-77-2 ,ethyl cinnamate ,CCOC(=O)/C=C/C1=CC=CC=C1
+637776,93-16-3 ,methyl isoeugenol ,C/C=C/C1=CC(=C(C=C1)OC)OC
+638011,5392-40-5 ,citral ,CC(=CCC/C(=C/C=O)/C)C
+643820,106-25-2 ,nerol ,CC(=CCC/C(=C\CO)/C)C
+853433,97-54-1 ,isoeugenol ,C/C=C/C1=CC(=C(C=C1)O)OC
+929336,128-51-8 ,nopyl acetate ,CC(=O)OCCC1=CC[C@H]2C[C@@H]1C2(C)C
+1268142,4674-50-4 ,nootkatone ,C[C@@H]1CC(=O)C=C2[C@]1(C[C@@H](CC2)C(=C)C)C
+1549018,488-10-8 ,cis-jasmone ,CC/C=C\CC1=C(CCC1=O)C
+1549025,141-12-8,neryl acetate ,CC(=CCC/C(=C\COC(=O)C)/C)C
+1549026,105-87-3 ,geranyl acetate ,CC(=CCC/C(=C/COC(=O)C)/C)C
+2733294,2497-18-9 ,trans-2-hexenyl acetate ,CCC/C=C/COC(=O)C
+3017432,63500-71-0,florosa,CC(C)CC1CC(CCO1)(C)O
+3017783,67707-75-9 ,melusat ,CCOC(=O)CC(C)CC(C)(C)C
+3782139,3720-16-9 ,gravenone ,CCCC1CC(=CC(=O)C1)C
+5281167,928-96-1 ,cis-3-hexenol ,CC/C=C\CCO
+5281168,6728-26-3 ,trans-2-hexenal ,CCC/C=C/C=O
+5281515, 87-44-5,beta-caryophyllene,C/C/1=C\CCC(=C)[C@H]2CC([C@@H]2CC1)(C)C
+5282108,127-41-3 ,alpha-ionone ,CC1=CCCC(C1/C=C/C(=O)C)(C)C
+5282110,103-54-8, cinnamyl acetate,CC(=O)OC/C=C/C1=CC=CC=C1
+5283345,3913-81-3 ,trans-2-decenal ,CCCCCCC/C=C/C=O
+5283361,20407-84-5 ,mandarine aldehyde ,CCCCCCCCC/C=C/C=O
+5284507,7212-44-4 ,nerolidol ,CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C
+5315892,4407-36-7 ,cinnamic alcohol ,C1=CC=C(C=C1)/C=C/CO
+5318042,928-95-0 ,trans-2-hexen-1-ol ,CCC/C=C/CO
+5325830,20126-76-5 ,terpinene-4-ol ,CC1=CC[C@](CC1)(C(C)C)O
+5352438,16491-36-4 ,cis-3-hexenyl butyrate ,CCCC(=O)OCC/C=C\CC
+5352481,23267-57-4 ,beta-ionone epoxide ,CC(=O)/C=C/C12C(CCCC1(O2)C)(C)C
+5352539,41519-23-7 ,cis-3-hexenyl isobutyrate ,CC/C=C\CCOC(=O)C(C)C
+5352543,31501-11-8 ,cis-3-hexenyl hexanoate ,CCCCCC(=O)OCC/C=C\CC
+5355856,106-29-6  ,geranyl butyrate ,CCCC(=O)OC/C=C(\C)/CCC=C(C)C
+5362620,21662-09-9 ,cis-4-decenal ,CCCCC/C=C\CCC=O
+5362720,2277-19-2 ,cis-6-nonenal ,CC/C=C\CCCCC=O
+5362792,35854-86-5 ,cis-6-nonen-1-ol ,CC/C=C\CCCCCO
+5362814,6728-31-0 ,cis-4-heptenal ,CC/C=C\CCC=O
+5362833,28069-72-9 ,"2,6-nonadienol ",CC/C=C\CC/C=C/CO
+5363388,3681-71-8 ,cis-3-hexenyl acetate ,CC/C=C\CCOC(=O)C
+5365699,67633-96-9 ,liffarome ,CC/C=C\CCOC(=O)OC
+5365916,57378-68-4 ,delta-damascone ,C/C=C/C(=O)C1C(C=CCC1(C)C)C
+5365976,79-78-7 ,allyl alpha-ionone ,CC1=CCCC(C1/C=C/C(=O)CCC=C)(C)C
+5366074,23726-93-4 ,damascenone ,C/C=C/C(=O)C1=C(C=CCC1(C)C)C
+5367706,25152-85-6 ,cis-3-hexenyl benzoate ,CC/C=C\CCOC(=O)C1=CC=CC=C1
+5372174,127-51-5 ,methyl ionone-gamma ,CC1=CCCC(C1/C=C(\C)/C(=O)C)(C)C
+5463762,87731-18-8 ,violiff ,COC(=O)OC1CCC/C=C\CC1
+5702654,65405-70-1 ,trans-4-decenal ,CCCCC/C=C/CCC=O
+6021887,65405-77-8 ,cis-3-hexenyl salicylate ,CC/C=C/CCOC(=O)C1=CC=CC=C1O
+6321405,124-76-5 ,isoborneol ,C[C@@]12CC[C@@H](C1(C)C)C[C@H]2O
+6433547,10339-55-6 ,ethyl linalool ,CC/C(=C/CCC(C)(C=C)O)/C
+6437428,68133-79-9 ,geranyl cyclopentanone ,CC(=CCC/C(=C/CC1CCCC1=O)/C)C
+6438067,39872-57-6 ,isodamascone ,C/C=C/C(=O)C1CCC(C=C1C)(C)C
+6440618,80449-58-7 ,acetyl cedrene ,C[C@@H]1CC[C@]2\3C[C@H]1C([C@@H]2CC/C3=C/C(=O)C)(C)C
+9855795,7/3/4630,valencene ,C[C@@H]1CCC=C2[C@]1(C[C@@H](CC2)C(=C)C)C
+10857465,6790-58-5 ,ambroxan ,C[C@]12CCCC([C@@H]1CC[C@@]3([C@@H]2CCO3)C)(C)C
+11085796,67874-81-1 ,cedryl methyl ether ,CC1CCC2[C@]13CC[C@@](C(C3)C2(C)C)(C)OC
+13918856,77-54-3 ,cedryl acetate ,C[C@@H]1CC[C@@H]2[C@]13CC[C@@]([C@H](C3)C2(C)C)(C)OC(=O)C
+15461361,67883-79-8 ,cis-3-hexenyl tiglate ,CC/C=C\CCOC(=O)/C(=C/C)/C
+16063567,141773-73-1 ,helvetolide ,CCC(=O)OCC(C)(C)OC(C)C1CCCC(C1)(C)C
+16070752,117933-89-8,karanal,CCC(C)C1(COC(OC1)C2CCC(=CC2C)C)C
+16204527,1335-66-6 ,isocyclocitral ,CC1CC(=CC(C1C=O)C)C.CC1C=C(CC(C1C)C=O)C
+19871663,1247790-47-1 ,terpirosa ,CC(C)CCC(C)C(C)O
+44153588,113889-23-9 ,tricyclodecenyl butyrate ,CCCC(=O)OC1C=CC2C1C3CCC2C3
+57353762,82356-51-2 ,muscenone delta ,CC1CCCC=CCCC(=O)CC1
